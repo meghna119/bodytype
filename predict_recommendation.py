@@ -714,14 +714,14 @@ class BodyClassifierApp:
         self.recommendation_images = {
             "Female": {
                 "APPLE": {
-                    "Skirt": ["images\Women/a line skirt .png", "images\Women/wrap skirt .png", "images\Women/handkerchief skirt .png", "images\Women/flip skirt .png", "images\Women/draped skirt .png"],
-                    "Jumpsuits": ["images\Women/belted jumpsuit .png", "images\Women/wide leg jumpsuit .png", "images\Women/utility jumpsuit .png", "images\Women/wrap jumpsuit .png", "images\Women/empire jumpsuit .png"],
-                    "Pants": ["images\Women/harem pants .png", "images\Women/bootcut pants.png", "images\Women/Palazzo pants .png", "images\Women/pegged pants.png", "images\Women/wideleg jeans pants.png"],
-                    "Necklines": ["images\Women/y neckline .png", "images\Women/v neckline.png", "images\Women/sweetheart neckline .png", "images\Women/scoop neckline .png", "images\Women/off shoulder neckline .png"],
-                    "Tops": ["images\Women/off shoulder top .png", "images\Women/peplum top .png", "images\Women/wrap top.png", "images\Women/empire top.png", "images\Women/hoodie - top.png"],
-                    "Sleeves": ["images\Women/cap sleeve .png", "images\Women/Bell sleeve.png", "images\Women/dolman sleeve.png", "images\Women/flutter sleeve .png", "images\Women/off shoulder sleeve .png"],
-                    "TRADITIONAL WEAR": ["images\Women/aline kurta.png", "images\Women/anarkali kurta.png", "images\Women/straight cut kurta.png", "images\Women/empire waist kurta.png", "images\Women/saree.png"]
-                }
+            "Skirt": ["images/Women/a line skirt .png", "images/Women/wrap skirt .png", "images/Women/handkerchief skirt .png", "images/Women/flip skirt .png", "images/Women/draped skirt .png"],
+            "Jumpsuits": ["images/Women/belted jumpsuit .png", "images/Women/wide leg jumpsuit .png", "images/Women/utility jumpsuit .png", "images/Women/wrap jumpsuit .png", "images/Women/empire jumpsuit .png"],
+            "Pants": ["images/Women/harem pants .png", "images/Women/bootcut pants.png", "images/Women/Palazzo pants .png", "images/Women/pegged pants.png", "images/Women/wideleg jeans pants.png"],
+            "Necklines": ["images/Women/y neckline .png", "images/Women/v neckline.png", "images/Women/sweetheart neckline .png", "images/Women/scoop neckline .png", "images/Women/off shoulder neckline .png"],
+            "Tops": ["images/Women/off shoulder top .png", "images/Women/peplum top .png", "images/Women/wrap top.png", "images/Women/empire top.png", "images/Women/hoodie - top.png"],
+            "Sleeves": ["images/Women/cap sleeve .png", "images/Women/Bell sleeve.png", "images/Women/dolman sleeve.png", "images/Women/flutter sleeve .png", "images/Women/off shoulder sleeve .png"],
+            "TRADITIONAL WEAR": ["images/Women/aline kurta.png", "images/Women/anarkali kurta.png", "images/Women/straight cut kurta.png", "images/Women/empire waist kurta.png", "images/Women/saree.png"]
+        }
             },
             "Male": {}
         }
